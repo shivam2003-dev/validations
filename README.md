@@ -1,2 +1,2 @@
-# validations
+# Validations
 blue kale validation repo for training
